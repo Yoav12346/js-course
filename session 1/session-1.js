@@ -4,7 +4,7 @@ console.log("hola mundo")
 
 // Variable y Constantessss
 let edad= 18 // Variable que puede cambiar
-const nombre = "Juan" // Constante que no puede cambiar
+const nombre = "Yoav" // Constante que no puede cambiar
 // Palabra reservada 
 var ciudad = "Santiago"
 
@@ -19,7 +19,7 @@ let ismayor = false // true //tipo de dato booleano
 let pi = 3.14159// tipo de dato number
 
 //concatenaciones 
-console.log("Hola, mi nombre es ${nombre} ${apellido} y tengp ${edad} años.")
+console.log(`Hola, mi nombre es ${nombre} ${apellido} y tengp ${edad} años.`)
 
 //operaciones basicas 
 
